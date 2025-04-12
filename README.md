@@ -1,6 +1,6 @@
 
 #  Contagem de Medalhas - Olimpíadas
-Este script foi desenvolvido como parte da avaliação para o programa Pretas in Lab.
+Este código foi desenvolvido como parte da avaliação para o programa Pretas in Lab.
 É um programa em JavaScript que registra a quantidade de medalhas de ouro, prata e bronze conquistadas por diferentes países em uma simulação de Olimpíadas.
 
 ## Como funciona
